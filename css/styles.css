@@ -9,8 +9,9 @@ a {
     text-decoration: none;
     color: black;
 }
-nav {
+nav, .logo {
     font-weight: 700;
+    margin-top: 15px;
 }
 
 .logo {
@@ -28,7 +29,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-top: 15px;
 }
 
 nav a {
