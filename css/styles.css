@@ -29,7 +29,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    
 }
 
 nav a {
@@ -38,6 +37,14 @@ nav a {
 
 nav a:hover {
     text-decoration: underline 2px;
+}
+
+main {
+    text-align: center;
+    margin-top: 100px;
+}
+h1 {
+    font-weight: 900;
 }
 
 @media screen and (max-width: 600px) {
